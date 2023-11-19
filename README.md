@@ -4,4 +4,4 @@ Starter code for quiz-app beginner react project
 - npm start
 
 - #MyQuiz
-- <a href = ""> click to check it</a>
+- <a href = "https://shashank-develops.github.io/Myquiz-ReactJs-/"> click to check it</a>
