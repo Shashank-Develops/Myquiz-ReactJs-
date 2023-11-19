@@ -1,5 +1,7 @@
 Starter code for quiz-app beginner react project
 
-- clone repo
 - npm install
 - npm start
+
+- #MyQuiz
+- <a href = ""> click to check it</a>
